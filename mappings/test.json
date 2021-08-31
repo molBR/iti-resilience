@@ -1,0 +1,13 @@
+{
+  "request": {
+    "url": "/bear",
+    "method": "GET"
+  },
+  "response": {
+    "status": 500,
+    "body": "{ \"name\": \"Pooh Bear\", \"weight\": \"100KG\", \"color\": \"yellow\", \"id\": \"101\"}",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
