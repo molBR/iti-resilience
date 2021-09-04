@@ -1,6 +1,6 @@
 # Circuit Breaker & Fallback Method
 
-##Requisitos
+## Requisitos
 * Java 8
 * Kotlin
 * Docker
@@ -43,7 +43,7 @@ Para fazer esta simulação basta editar o arquivo `mappngs/test.json` retornar 
 Para mais explicações: LINK DO MEDIUM
 
 
-####Importante:
+#### Importante:
 * Escolheu-se manter o stack trace para fins didáticos, importante deixar claro que para uma aplicação produtiva, não é uma boa ideia manter o stack trace para o retorno do objeto json.
 
 * Como objetivo é mostrar na prática o uso de circuit breakers e estratégia de fallback, este README não entra em detalhe na implementação do código. Caso seja de curiosidade, abra uma issue manifestando o interesse.
